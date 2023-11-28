@@ -1,0 +1,3 @@
+D:/clion/matrix-sprixnx/cmake-build-debug/CMakeFiles/matrix_sprixnx.dir
+D:/clion/matrix-sprixnx/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/matrix-sprixnx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
