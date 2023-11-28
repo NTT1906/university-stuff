@@ -327,7 +327,7 @@ void deleteMatrixItemsOrigin(int a[][MAX], int &m, int &n, int x) {
 				deleteMatrixRowCol(a, m, n, i, j);
 //				deleteMatrixRow(a, m, n, i);
 //				deleteMatrixCol(a, m, n, j);
-// this two work! but the general deleteMatrixRowCol don't
+// this two work! but the general deleteMatrixRowCol don't. Edit: fixed deleteMatrixRowCol!
 			}
 		}
 	}
